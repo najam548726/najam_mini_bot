@@ -1,0 +1,16 @@
+{
+  "name": "njm-shahzad-mini",
+  "version": "1.0.0",
+  "description": "Najam Shahzad WhatsApp Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "@hapi/boom": "^10.0.1",
+    "pino": "^9.0.0",
+    "qrcode-terminal": "^0.12.0",
+    "fs-extra": "^11.2.0"
+  }
+}
